@@ -128,6 +128,8 @@ Questions:
 
 ### 17_plasticity.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/17_plasticity.ipynb)
+
 Studies adaptation to new information.
 
 Questions:

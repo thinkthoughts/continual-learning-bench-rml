@@ -33,9 +33,7 @@ where each notebook investigates a distinct aspect of continual learning under s
 
 | Notebook | Description |
 |-----------|-------------|
-| [00_context.ipynb](notebooks/00_context.ipynb) | Introduces CL-BENCH, reproduces the continual-learning framing, explores reward vs. gain, and generates initial artifacts comparing stateful and stateless systems. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/00_context.ipynb
-) |
+| [00_context.ipynb](notebooks/00_context.ipynb) | Introduces CL-BENCH, reproduces the continual-learning framing, explores reward vs. gain, and generates initial artifacts comparing stateful and stateless systems. |
 | 01_gain_signal.ipynb | *(planned)* Investigates gain as a measurable advantage derived from sequential experience. |
 | 07_latent_structure.ipynb | *(planned)* Maps the hidden structures agents must discover across tasks. |
 | 11_state_vs_stateless.ipynb | *(planned)* Compares performance trajectories between stateful and stateless systems. |
@@ -44,21 +42,28 @@ https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-
 | 19_stale_context.ipynb | *(planned)* Investigates when accumulated experience becomes harmful. |
 | 23_drift_adaptation.ipynb | *(planned)* Explores concept drift and belief revision. |
 | 29_failure_modes.ipynb | *(planned)* Develops a taxonomy of continual-learning failures. |
-
 ---
 
-## Notebook Structure
+### Notebook 00 — Context
 
-### 00_context.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/00_context.ipynb
+)
 
-Introduces CL-BENCH and reproduces baseline continual-learning results.
+Introduces the CL-BENCH continual-learning framework and establishes the baseline analyses used throughout the RML extension.
 
-Focus:
+Objectives:
 
-* reward
-* gain
-* stateful vs. stateless systems
-* continual learning beyond recall
+1. Define reward and gain.
+2. Compare stateful and stateless trajectories.
+3. Generate reproducible artifacts.
+4. Establish a common context for subsequent notebooks.
+
+Outputs:
+
+- `results/00_context_gain.csv`
+- `figures/00_context_gain.png`
+- `results/00_context_artifacts.zip`
 
 ---
 

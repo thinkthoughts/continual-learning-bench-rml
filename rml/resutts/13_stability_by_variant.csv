@@ -1,0 +1,4 @@
+variant,instances,first_instance,last_instance,first_gain,last_gain,mean_gain,gain_change,stability_profile
+A,4,1,4,0.0,0.13999999999999999,0.0625,0.13999999999999999,strengthening
+B,4,5,8,0.21,0.30000000000000004,0.26,0.09000000000000005,strengthening
+C,4,9,12,0.17,0.35,0.265,0.17999999999999997,strengthening

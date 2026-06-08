@@ -1,0 +1,4 @@
+to_variant,boundary_instance,gain_before_boundary,gain_at_boundary,transfer_ratio,transfer_cost,boundary_label
+A,1,,0.0,,0.0,initial_context
+B,5,0.13999999999999999,0.21,1.5,0.0,smooth_or_improved_transfer
+C,9,0.30000000000000004,0.17,0.5666666666666667,0.13000000000000003,revision_cost

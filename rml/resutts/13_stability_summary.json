@@ -1,0 +1,25 @@
+{
+  "total_instances": 12,
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "trajectory_source": "fallback",
+  "mean_gain": 0.19583333333333333,
+  "total_gain": 2.35,
+  "basic_stability_boundary_gain": 0.12666666666666668,
+  "basic_plasticity_non_boundary_gain": 0.21888888888888888,
+  "largest_transfer_cost_variant": "C",
+  "largest_transfer_cost_instance": 9,
+  "largest_transfer_cost": 0.13000000000000003,
+  "stability_state_counts": {
+    "stable": 9,
+    "declining": 2,
+    "neutral": 1
+  },
+  "generated_at_utc": "2026-06-08T19:20:06.502104+00:00",
+  "notebook": "13_stability.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

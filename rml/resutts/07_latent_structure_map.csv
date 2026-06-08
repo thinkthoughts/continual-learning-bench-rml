@@ -1,0 +1,7 @@
+task,domain,latent_structure,structure_type,reuse_action,failure_mode
+Database Exploration,database analytics,"schema layout, table naming conventions, column encodings",symbolic,reuse discovered schema facts to answer later questions with fewer queries,stale schema reuse after migration
+Codebase Adaptation,software engineering,"file layout, module boundaries, test commands, contributor conventions",symbolic,reuse repo navigation and test patterns across related issues,overfitting to previous file locations or test patterns
+Blind Spectrum Monitoring,signal processing,persistent transmitter center frequencies and bandwidths,physical,carry forward dormant transmitters not visible in the current scan,forgetting dormant channels or hallucinating inactive ones
+Cohort Studies,epidemiological forecasting,"patient mixture, risk factors, biased cohorts, survival dynamics",statistical,integrate cross-study evidence into population survival estimates,spurious correlations mistaken for stable predictors
+Exploitable Poker,strategic game-playing,"opponent archetypes, betting tendencies, stage-specific policies",behavioral,infer fixed opponent policy and exploit repeated betting patterns,overfitting to recent hands or failing to transfer opponent model
+Sales Prediction,demand forecasting,cross-location product-cluster growth rates,statistical,transfer demand patterns across stores and products,misreading local noise as global trend

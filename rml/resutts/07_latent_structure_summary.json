@@ -1,0 +1,25 @@
+{
+  "total_tasks_mapped": 6,
+  "structure_type_counts": {
+    "symbolic": 2,
+    "statistical": 2,
+    "physical": 1,
+    "behavioral": 1
+  },
+  "dominant_structure_types": [
+    "symbolic",
+    "statistical",
+    "physical",
+    "behavioral"
+  ],
+  "trajectory_source": "fallback",
+  "largest_gain_drop_instance": 9,
+  "largest_gain_drop_variant": "C",
+  "largest_gain_drop": -0.13000000000000003,
+  "largest_transition_cost": 0.13000000000000003,
+  "final_cumulative_gain": 2.35,
+  "generated_at_utc": "2026-06-08T19:01:23.210040+00:00",
+  "notebook": "07_latent_structure.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

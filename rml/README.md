@@ -84,6 +84,10 @@ Questions:
 
 ### 07_latent_structure.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/07_latent_structure.ipynb
+)
+
 Maps the hidden structures agents must discover.
 
 Examples include:

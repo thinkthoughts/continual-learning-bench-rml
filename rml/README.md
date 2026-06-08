@@ -141,7 +141,7 @@ Questions:
 
 ### 19_stale_context.ipynb
 
-[Notebook 19 – Stale Context](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/19_stale_context.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/19_stale_context.ipynb)
 
 Examines when prior experience becomes harmful.
 

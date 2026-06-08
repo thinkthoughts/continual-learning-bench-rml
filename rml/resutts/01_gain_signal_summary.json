@@ -1,0 +1,18 @@
+{
+  "total_instances": 12,
+  "positive_gain_instances": 11,
+  "zero_gain_instances": 1,
+  "negative_gain_instances": 0,
+  "cumulative_gain": 2.35,
+  "average_gain": 0.19583333333333333,
+  "final_cumulative_gain": 2.35,
+  "largest_gain": 0.35,
+  "largest_gain_instance": 12,
+  "largest_gain_drop": -0.13000000000000003,
+  "largest_gain_drop_instance": 9,
+  "generated_at_utc": "2026-06-08T18:54:07.949215+00:00",
+  "notebook": "01_gain_signal.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "input_csv": "/content/continual-learning-bench-rml/rml/results/00_context_gain.csv",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

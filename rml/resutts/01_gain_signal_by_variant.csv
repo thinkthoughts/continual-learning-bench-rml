@@ -1,0 +1,4 @@
+variant,instances,mean_gain,total_gain,min_gain,max_gain,mean_stateful_reward,mean_stateless_reward
+A,4,0.0625,0.25,0.0,0.13999999999999999,0.2575,0.195
+B,4,0.26,1.04,0.21,0.30000000000000004,0.47250000000000003,0.2125
+C,4,0.265,1.06,0.17,0.35,0.5,0.235

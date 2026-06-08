@@ -102,6 +102,8 @@ Examples include:
 
 ### 11_state_vs_stateless.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/11_state_vs_stateless.ipynb)
+
 Compares performance trajectories between stateful and stateless systems.
 
 Questions:

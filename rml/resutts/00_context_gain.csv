@@ -1,0 +1,13 @@
+instance,variant,stateful_reward,stateless_reward,gain,possible_drift_or_stale_context
+1,A,0.18,0.18,0.0,False
+2,A,0.22,0.19,0.03,False
+3,A,0.28,0.2,0.08000000000000002,False
+4,A,0.35,0.21,0.13999999999999999,False
+5,B,0.43,0.22,0.21,False
+6,B,0.48,0.2,0.27999999999999997,False
+7,B,0.46,0.21,0.25,False
+8,B,0.52,0.22,0.30000000000000004,False
+9,C,0.4,0.23,0.17,False
+10,C,0.45,0.22,0.23,False
+11,C,0.55,0.24,0.31000000000000005,False
+12,C,0.6,0.25,0.35,False

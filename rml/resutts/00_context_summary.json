@@ -1,0 +1,12 @@
+{
+  "cumulative_gain": 2.35,
+  "average_gain": 0.19583333333333333,
+  "mean_stateful_reward": 0.41,
+  "mean_stateless_reward": 0.2141666666666667,
+  "stability": 0.12666666666666668,
+  "plasticity": 0.21888888888888888,
+  "generated_at_utc": "2026-06-08T18:45:34.208401+00:00",
+  "notebook": "00_context.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

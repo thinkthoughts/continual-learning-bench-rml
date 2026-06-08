@@ -28,6 +28,26 @@ The goal is not to replace CL-BENCH metrics, but to provide
 interpretable perspectives on continual-learning trajectories.
 
 ------------------------------------------------------------------------
+# Continual Learning in Context
+### An RML Extension for CL-BENCH
+
+![Continual Learning in Context](continual_learning.png)
+
+> Lab reports identify reproducible structure before analytic explanation.
+
+This repository extends CL-BENCH with interpretable analyses of continual learning trajectories, focusing on how systems discover, reuse, adapt, and revise context over time.
+
+The extension asks not only:
+
+> Did the agent improve?
+
+but also:
+
+> What context was reused?  
+> When did accumulated experience become stale?  
+> Which forms of adaptation contributed to gain?  
+> How do stability and plasticity interact?  
+> What failure modes emerge during continual learning?
 
 ## RML Notebook Arc
 

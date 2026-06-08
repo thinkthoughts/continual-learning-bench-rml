@@ -4,7 +4,7 @@
   <img src="assets/logo.png" alt="Continual Learning Bench" width="200"/>
 </p>
 
-[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/7bxjNdfbfH) [![Website](https://img.shields.io/badge/Website-continual--learning--bench.com-2ea44f?logo=googlechrome&logoColor=white)](https://continual-learning-bench.com/) [![Docs](https://img.shields.io/badge/Docs-continual--learning--bench.com%2Fdocs-blue?logo=readthedocs&logoColor=white)](https://continual-learning-bench.com/docs/)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/7bxjNdfbfH) [![Website](https://img.shields.io/badge/Website-continual--learning--bench.com-2ea44f?logo=googlechrome&logoColor=white)](https://continual-learning-bench.com/) [![Docs](https://img.shields.io/badge/Docs-continual--learning--bench.com%2Fdocs-blue?logo=readthedocs&logoColor=white)](https://continual-learning-bench.com/docs/) [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2606.05661)
 
 **Continual Learning Bench** measures how well AI agents learn from past environment interactions, the defining challenge for agents that operate over extended horizons and are expected to improve online.
 
@@ -71,12 +71,16 @@ Contributions are welcome, especially new tasks that stress-test long-horizon le
 
 ## Citing Us
 
-If you found Continual Learning Bench useful, please cite us as:
+Read the [paper on arXiv](https://arxiv.org/pdf/2606.05661). If you found Continual Learning Bench useful, please cite us as:
 
 ```bibtex
-@misc{clbench2026,
-      title={Continual Learning Bench},
-      author={Parth Asawa and Chris Glaze and Gabe Orlanski and Ramya Ramakrishnan and Benji Xu and Asim Biswal and Vincent Sunn Chen and Frederic Sala and Matei Zaharia and Joseph E. Gonzalez},
+@misc{asawa2026continuallearningbenchevaluating,
+      title={Continual Learning Bench: Evaluating Frontier AI Systems in Real-World Stateful Environments}, 
+      author={Parth Asawa and Christopher M. Glaze and Gabriel Orlanski and Ramya Ramakrishnan and Benji Xu and Asim Biswal and Vincent Sunn Chen and Frederic Sala and Matei Zaharia and Joseph E. Gonzalez},
       year={2026},
+      eprint={2606.05661},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2606.05661}, 
 }
 ```

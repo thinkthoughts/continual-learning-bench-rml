@@ -69,6 +69,10 @@ Outputs:
 
 ### 01_gain_signal.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/01_gain_signal.ipynb
+)
+
 Investigates gain as a measurable advantage derived from prior experience.
 
 Questions:

@@ -1,0 +1,24 @@
+{
+  "total_instances": 12,
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "trajectory_source": "fallback",
+  "negative_gain_instances": 0,
+  "large_gain_drop_instances": 1,
+  "decline_after_high_gain_instances": 1,
+  "low_recovery_boundary_instances": 0,
+  "total_stale_risk": 3.5,
+  "mean_stale_risk": 0.2916666666666667,
+  "highest_risk_instance": 9,
+  "highest_risk_variant": "C",
+  "highest_risk_score": 2.5,
+  "highest_risk_variant_by_mean": "C",
+  "highest_mean_variant_risk": 0.625,
+  "generated_at_utc": "2026-06-08T19:39:50.099009+00:00",
+  "notebook": "19_stale_context.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

@@ -1,0 +1,4 @@
+variant,instances,mean_gain,min_gain,mean_gain_delta,total_stale_risk,mean_stale_risk,high_risk_instances,medium_risk_instances,low_risk_instances,no_risk_instances
+A,4,0.0625,0.0,0.034999999999999996,0.5,0.125,0,0,1,3
+B,4,0.26,0.21,0.040000000000000015,0.5,0.125,0,0,1,3
+C,4,0.265,0.17,0.012499999999999983,2.5,0.625,1,0,0,3

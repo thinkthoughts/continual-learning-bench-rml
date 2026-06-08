@@ -1,0 +1,24 @@
+{
+  "revision_source": "fallback_revision_outcomes",
+  "trajectory_source": "fallback_trajectory",
+  "total_revision_events": 4,
+  "failure_mode_counts": {
+    "oscillating_revision": 3,
+    "no_revision": 1
+  },
+  "mean_revision_success_score": 0.0175,
+  "mean_recovery_gain": 0.0675,
+  "mean_adaptation_lag": 1.6666666666666667,
+  "mean_forgetting_cost": 0.013333333333333336,
+  "worst_forgetting_cost": 0.0,
+  "best_revision_variant": "C",
+  "best_revision_instance": 9,
+  "best_revision_success_score": 0.14,
+  "worst_revision_variant": "B",
+  "worst_revision_instance": 7,
+  "worst_revision_success_score": -0.1,
+  "generated_at_utc": "2026-06-08T20:11:04.164741+00:00",
+  "notebook": "29_failure_modes.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

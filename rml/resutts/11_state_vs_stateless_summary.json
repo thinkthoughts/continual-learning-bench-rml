@@ -1,0 +1,21 @@
+{
+  "total_instances": 12,
+  "state_helped_instances": 11,
+  "state_hurt_instances": 0,
+  "state_neutral_instances": 1,
+  "help_rate": 0.9166666666666666,
+  "hurt_rate": 0.0,
+  "mean_stateful_reward": 0.41,
+  "mean_stateless_reward": 0.2141666666666667,
+  "mean_state_advantage": 0.19583333333333333,
+  "total_state_advantage": 2.35,
+  "max_state_advantage": 0.35,
+  "max_state_advantage_instance": 12,
+  "min_state_advantage": 0.0,
+  "min_state_advantage_instance": 1,
+  "trajectory_source": "fallback",
+  "generated_at_utc": "2026-06-08T19:08:50.510680+00:00",
+  "notebook": "11_state_vs_stateless.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

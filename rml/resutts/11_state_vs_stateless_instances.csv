@@ -1,0 +1,13 @@
+instance,variant,stateful_reward,stateless_reward,state_advantage,state_advantage_ratio,state_helped,state_hurt,state_neutral
+1,A,0.18,0.18,0.0,1.0,False,False,True
+2,A,0.22,0.19,0.03,1.1578947368421053,True,False,False
+3,A,0.28,0.2,0.08000000000000002,1.4000000000000001,True,False,False
+4,A,0.35,0.21,0.13999999999999999,1.6666666666666665,True,False,False
+5,B,0.43,0.22,0.21,1.9545454545454546,True,False,False
+6,B,0.48,0.2,0.27999999999999997,2.4,True,False,False
+7,B,0.46,0.21,0.25,2.1904761904761907,True,False,False
+8,B,0.52,0.22,0.30000000000000004,2.3636363636363638,True,False,False
+9,C,0.4,0.23,0.17,1.7391304347826086,True,False,False
+10,C,0.45,0.22,0.23,2.0454545454545454,True,False,False
+11,C,0.55,0.24,0.31000000000000005,2.291666666666667,True,False,False
+12,C,0.6,0.25,0.35,2.4,True,False,False

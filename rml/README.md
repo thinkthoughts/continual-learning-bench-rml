@@ -165,7 +165,11 @@ Questions:
 
 ---
 
-### 29_failure_modes.ipynb
+### 29_failure_modes.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/29_failure_modes.ipynb
+)
 
 Develops a taxonomy of continual-learning failures.
 

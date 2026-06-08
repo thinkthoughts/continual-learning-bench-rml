@@ -154,6 +154,8 @@ Questions:
 
 ### 23_drift_adaptation.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/23_drift_adaptation.ipynb)
+
 Investigates concept drift.
 
 Questions:

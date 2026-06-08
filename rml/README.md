@@ -29,6 +29,24 @@ where each notebook investigates a distinct aspect of continual learning under s
 
 ---
 
+## Notebooks
+
+| Notebook | Description |
+|-----------|-------------|
+| [00_context.ipynb](notebooks/00_context.ipynb) | Introduces CL-BENCH, reproduces the continual-learning framing, explores reward vs. gain, and generates initial artifacts comparing stateful and stateless systems. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/00_context.ipynb
+) |
+| 01_gain_signal.ipynb | *(planned)* Investigates gain as a measurable advantage derived from sequential experience. |
+| 07_latent_structure.ipynb | *(planned)* Maps the hidden structures agents must discover across tasks. |
+| 11_state_vs_stateless.ipynb | *(planned)* Compares performance trajectories between stateful and stateless systems. |
+| 13_stability.ipynb | *(planned)* Examines retention across task variants. |
+| 17_plasticity.ipynb | *(planned)* Studies adaptation to new information. |
+| 19_stale_context.ipynb | *(planned)* Investigates when accumulated experience becomes harmful. |
+| 23_drift_adaptation.ipynb | *(planned)* Explores concept drift and belief revision. |
+| 29_failure_modes.ipynb | *(planned)* Develops a taxonomy of continual-learning failures. |
+
+---
+
 ## Notebook Structure
 
 ### 00_context.ipynb

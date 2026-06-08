@@ -90,20 +90,19 @@ Or open directly in Google Colab using the links below.
 ------------------------------------------------------------------------
 
 ## Colab Links
+## Colab Links
 
-  Notebook   Code                                          Colab
-  ---------- --------------------------------------------- ---------------
-  00         `rml/notebooks/00_context.ipynb`              Add Colab URL
-  01         `rml/notebooks/01_gain_signal.ipynb`          Add Colab URL
-  07         `rml/notebooks/07_latent_structure.ipynb`     Add Colab URL
-  11         `rml/notebooks/11_state_vs_stateless.ipynb`   Add Colab URL
-  13         `rml/notebooks/13_stability.ipynb`            Add Colab URL
-  17         `rml/notebooks/17_plasticity.ipynb`           Add Colab URL
-  19         `rml/notebooks/19_stale_context.ipynb`        Add Colab URL
-  23         `rml/notebooks/23_drift_adaptation.ipynb`     Add Colab URL
-  29         `rml/notebooks/29_failure_modes.ipynb`        Add Colab URL
-
-------------------------------------------------------------------------
+| Notebook | Code | Colab |
+|---|---|---|
+| 00 | [`rml/notebooks/00_context.ipynb`](rml/notebooks/00_context.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/00_context.ipynb) |
+| 01 | [`rml/notebooks/01_gain_signal.ipynb`](rml/notebooks/01_gain_signal.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/01_gain_signal.ipynb) |
+| 07 | [`rml/notebooks/07_latent_structure.ipynb`](rml/notebooks/07_latent_structure.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/07_latent_structure.ipynb) |
+| 11 | [`rml/notebooks/11_state_vs_stateless.ipynb`](rml/notebooks/11_state_vs_stateless.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/11_state_vs_stateless.ipynb) |
+| 13 | [`rml/notebooks/13_stability.ipynb`](rml/notebooks/13_stability.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/13_stability.ipynb) |
+| 17 | [`rml/notebooks/17_plasticity.ipynb`](rml/notebooks/17_plasticity.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/17_plasticity.ipynb) |
+| 19 | [`rml/notebooks/19_stale_context.ipynb`](rml/notebooks/19_stale_context.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/19_stale_context.ipynb) |
+| 23 | [`rml/notebooks/23_drift_adaptation.ipynb`](rml/notebooks/23_drift_adaptation.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/23_drift_adaptation.ipynb) |
+| 29 | [`rml/notebooks/29_failure_modes.ipynb`](rml/notebooks/29_failure_modes.ipynb) | [Open](https://colab.research.google.com/github/thinkthoughts/continual-learning-bench-rml/blob/main/rml/notebooks/29_failure_modes.ipynb) |
 
 ## Repository Structure
 

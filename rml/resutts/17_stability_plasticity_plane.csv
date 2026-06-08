@@ -1,0 +1,4 @@
+variant,boundary_instance,stability_signal,peak_gain_after_boundary,final_gain,plasticity_signal,final_recovery,plasticity_label,stability_plasticity_quadrant
+A,1,0.0,0.13999999999999999,0.13999999999999999,0.13999999999999999,0.13999999999999999,adaptive,adaptive_fragile
+B,5,0.21,0.30000000000000004,0.30000000000000004,0.09000000000000005,0.09000000000000005,adaptive,rigid_expert
+C,9,0.17,0.35,0.35,0.17999999999999997,0.17999999999999997,adaptive,continual_learner

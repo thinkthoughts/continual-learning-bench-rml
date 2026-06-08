@@ -1,0 +1,32 @@
+{
+  "total_instances": 12,
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "trajectory_source": "fallback",
+  "mean_gain": 0.19583333333333333,
+  "total_gain": 2.35,
+  "basic_stability_boundary_gain": 0.12666666666666668,
+  "basic_plasticity_non_boundary_gain": 0.21888888888888888,
+  "mean_recovery_gain": 0.1366666666666667,
+  "max_recovery_gain": 0.17999999999999997,
+  "max_recovery_variant": "C",
+  "stability_threshold": 0.17,
+  "plasticity_threshold": 0.13999999999999999,
+  "quadrant_counts": {
+    "adaptive_fragile": 1,
+    "rigid_expert": 1,
+    "continual_learner": 1
+  },
+  "plasticity_state_counts": {
+    "adaptive": 9,
+    "declining": 2,
+    "rigid": 1
+  },
+  "generated_at_utc": "2026-06-08T19:29:54.333527+00:00",
+  "notebook": "17_plasticity.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

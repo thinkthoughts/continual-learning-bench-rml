@@ -1,0 +1,2 @@
+drift_instance,variant,gain_at_drift,pre_drift_gain,peak_future_gain,peak_future_instance,final_gain_in_variant,recovery_gain,final_recovery,exceeded_pre_drift_gain,adaptation_lag_instances,revision_label,stale_risk_score
+9,C,0.17,0.30000000000000004,0.35,12,0.35,0.17999999999999997,0.17999999999999997,True,2,successful_revision,2.5

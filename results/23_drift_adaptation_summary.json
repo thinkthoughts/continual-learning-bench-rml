@@ -1,0 +1,29 @@
+{
+  "total_instances": 12,
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "trajectory_source": "patched_synthetic_fallback",
+  "used_synthetic_fallback": true,
+  "risk_was_patched": true,
+  "drift_candidate_count": 1,
+  "risk_threshold": 1.0,
+  "mean_recovery_gain": 0.17999999999999997,
+  "max_recovery_gain": 0.17999999999999997,
+  "mean_revision_success_score": 0.13999999999999996,
+  "best_revision_variant": "C",
+  "best_revision_instance": 9,
+  "best_revision_success_score": 0.13999999999999996,
+  "worst_revision_variant": "C",
+  "worst_revision_instance": 9,
+  "worst_revision_success_score": 0.13999999999999996,
+  "revision_success_classes": {
+    "strong_revision": 1
+  },
+  "generated_at_utc": "2026-06-08T20:00:01.734769+00:00",
+  "notebook": "23_drift_adaptation.ipynb",
+  "extension": "continual-learning-bench-rml",
+  "repo": "https://github.com/thinkthoughts/continual-learning-bench-rml.git"
+}

@@ -1,0 +1,2 @@
+instance,variant,stateful_reward,stateless_reward,gain,gain_delta,cumulative_gain,boundary_flag,negative_gain_flag,large_gain_drop_flag,prior_gain,decline_after_high_gain_flag,stale_risk_score,stale_risk_level,drift_candidate,non_boundary_drift_candidate,fallback_candidate
+9,C,0.4,0.23,0.17,-0.13000000000000003,1.46,True,False,True,0.30000000000000004,True,2.5,high,True,False,False
